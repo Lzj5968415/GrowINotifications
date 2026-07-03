@@ -1,0 +1,16 @@
+C:\学习资料\2-WPF类库\GrowINotifications\bin\Debug\GrowINotifications.dll
+C:\学习资料\2-WPF类库\GrowINotifications\bin\Debug\GrowINotifications.pdb
+C:\学习资料\2-WPF类库\GrowINotifications\obj\Debug\GrowINotifications.csproj.AssemblyReference.cache
+C:\学习资料\2-WPF类库\GrowINotifications\obj\Debug\Resources\ButtonStyle.baml
+C:\学习资料\2-WPF类库\GrowINotifications\obj\Debug\GrowlNotifiactions.g.cs
+C:\学习资料\2-WPF类库\GrowINotifications\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\学习资料\2-WPF类库\GrowINotifications\obj\Debug\GrowINotifications_MarkupCompile.cache
+C:\学习资料\2-WPF类库\GrowINotifications\obj\Debug\GrowINotifications_MarkupCompile.lref
+C:\学习资料\2-WPF类库\GrowINotifications\obj\Debug\DesignTimeNotificationData.baml
+C:\学习资料\2-WPF类库\GrowINotifications\obj\Debug\GrowlNotifiactions.baml
+C:\学习资料\2-WPF类库\GrowINotifications\obj\Debug\GrowINotifications.g.resources
+C:\学习资料\2-WPF类库\GrowINotifications\obj\Debug\GrowINotifications.Properties.Resources.resources
+C:\学习资料\2-WPF类库\GrowINotifications\obj\Debug\GrowINotifications.csproj.GenerateResource.cache
+C:\学习资料\2-WPF类库\GrowINotifications\obj\Debug\GrowINotifications.csproj.CoreCompileInputs.cache
+C:\学习资料\2-WPF类库\GrowINotifications\obj\Debug\GrowINotifications.dll
+C:\学习资料\2-WPF类库\GrowINotifications\obj\Debug\GrowINotifications.pdb
